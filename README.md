@@ -56,9 +56,9 @@ I build full-stack and AI-powered products with Next.js, FastAPI and Python, fro
 
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
-| **NabhaSense** | Urban heat intelligence platform for the ISRO Bharatiya Antariksh Hackathon 2026. Random Forest heat-risk model, real-time map of 7 Indian cities and a physics-based scenario simulator | Next.js 14, FastAPI, scikit-learn, Leaflet, Vercel, Render | [GitHub](https://github.com/DashamiJituri/NabhaSense) · [Live demo](https://nabha-sense.vercel.app) |
-| **LegalEase AI** | Legal document intelligence built for the Google GenAI Exchange Hackathon. RAG-style multi-turn document chat, 7 languages and contract comparison | Llama 3.3 70B (Groq), PyMuPDF, Supabase, Vercel, Render | [GitHub](https://github.com/DashamiJituri/LEGALEASE-AI) · [Live demo](https://legalease-ai-two.vercel.app) |
-| **FitPulse** | Health analytics platform built during my Infosys Springboard internship. Z-score anomaly detection and 7-day forecasts for heart rate, steps and sleep | Python, serverless REST API, Claude AI, Vercel | [Live demo](https://fitpulse-health-ai.vercel.app) |
+| **NabhaSense** | Urban heat intelligence platform for the ISRO Bharatiya Antariksh Hackathon 2026. Random Forest heat-risk model, real-time map of 7 Indian cities and a physics-based scenario simulator | Next.js 14, FastAPI, scikit-learn, Leaflet, Vercel, Render | [GitHub](https://github.com/JIturiDashami/NabhaSense) · [Live demo](https://nabha-sense.vercel.app) |
+| **LegalEase AI** | Legal document intelligence built for the Google GenAI Exchange Hackathon. RAG-style multi-turn document chat, 7 languages and contract comparison | Llama 3.3 70B (Groq), PyMuPDF, Supabase, Vercel, Render | [GitHub](https://github.com/JIturiDashami/LEGALEASE-AI) · [Live demo](https://legalease-ai-two.vercel.app) |
+| **FitPulse** | Health analytics platform built during my Infosys Springboard internship. Z-score anomaly detection and 7-day forecasts for heart rate, steps and sleep | Python, serverless REST API, Claude AI, Vercel | [GitHub](https://github.com/JIturiDashami/FitPulse-Health-Anomaly-Detection) · [Live demo](https://fitpulse-health-ai.vercel.app) |
 
 ### 🏆 Achievements
 
