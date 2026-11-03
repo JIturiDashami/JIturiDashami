@@ -51,6 +51,7 @@ I build full-stack and AI-powered products with Next.js, FastAPI and Python, fro
 | 2026 | AOSSIE-Org / PictoPy | [#1616](https://github.com/AOSSIE-Org/PictoPy/pull/1616) | Face search results now open in the shared search results page, fixing the stuck search state (issue #1611) |
 | 2026 | AOSSIE-Org / PictoPy | [#1532](https://github.com/AOSSIE-Org/PictoPy/pull/1532) | Added support for WebP, BMP, TIFF and GIF images in image validation, with tests for every supported format (issue #852) |
 | 2026 | AOSSIE-Org / PictoPy | [#1507](https://github.com/AOSSIE-Org/PictoPy/pull/1507) | Open Original File now uses plugin-opener instead of the deprecated plugin-shell (issue #1165) |
+| 2026 | AOSSIE-Org / PictoPy | [#1678](https://github.com/AOSSIE-Org/PictoPy/pull/1678) | remove debug print and add error handling in yolo_mapping (issue #1317) |
 
 ### 💻 Projects
 
