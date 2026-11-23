@@ -52,6 +52,7 @@ I build full-stack and AI-powered products with Next.js, FastAPI and Python, fro
 | 2026 | AOSSIE-Org / PictoPy | [#1532](https://github.com/AOSSIE-Org/PictoPy/pull/1532) | Added support for WebP, BMP, TIFF and GIF images in image validation, with tests for every supported format (issue #852) |
 | 2026 | AOSSIE-Org / PictoPy | [#1507](https://github.com/AOSSIE-Org/PictoPy/pull/1507) | Open Original File now uses plugin-opener instead of the deprecated plugin-shell (issue #1165) |
 | 2026 | AOSSIE-Org / PictoPy | [#1678](https://github.com/AOSSIE-Org/PictoPy/pull/1678) | remove debug print and add error handling in yolo_mapping (issue #1317) |
+| 2026 | AOSSIE-Org / PictoPy | [#1768](https://github.com/AOSSIE-Org/PictoPy/pull/1768) | Proposed the feature and Implemented from scratch (Issue #1673) |
 
 ### 💻 Projects
 
