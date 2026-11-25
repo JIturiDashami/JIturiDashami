@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dashami</h1>
+<h1 align="center">Hi there 👋, I'm Dashami Jituri</h1>
 
 <h3 align="center">An Open Source Contributor and Aspiring GSoC'27 Developer</h3>
 
